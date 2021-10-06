@@ -1,1 +1,1 @@
-Worker : bash install.sh
+Worker : npm start
